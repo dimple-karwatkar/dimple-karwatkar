@@ -22,7 +22,6 @@ I enjoy solving UI challenges, creating clean component architectures, and optim
 - Design systems & component libraries  
 
 📫 Let’s connect:
-- LinkedIn: *Add your link here*  
-- Portfolio/Website: *Add if available*  
+- LinkedIn: https://www.linkedin.com/in/dimple-karwatkar-b00a951b1/
 
 ✨ Always building. Always improving. Always shipping.
