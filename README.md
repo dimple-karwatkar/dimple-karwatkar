@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋 I'm Dimple!
 
-<!--
-**dimple-karwatkar/dimple-karwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Frontend-Focused Software Engineer who loves building fast, scalable, and user-friendly web applications using **React.js, Redux, JavaScript (ES6+)**, and **Java** on the backend.
 
-Here are some ideas to get you started:
+I enjoy solving UI challenges, creating clean component architectures, and optimizing performance to make apps feel incredibly fast and responsive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I work on:
+- Modern React apps with reusable, scalable component systems  
+- State management using Redux, Context API, and custom hooks  
+- Performance tuning using React.memo, code splitting, lazy loading  
+- Pixel-perfect, responsive UI/UX  
+- Integrating React frontends with Java/Spring Boot APIs  
+- Writing clean, maintainable, production-ready code  
+
+⚙️ Technologies I enjoy:
+**React.js | Redux | JavaScript ES6+ | HTML5 | CSS3 | Java | Spring Boot | REST APIs**
+
+🌱 Currently improving:
+- Advanced React patterns  
+- UI performance optimization  
+- Frontend architecture design  
+- Design systems & component libraries  
+
+📫 Let’s connect:
+- LinkedIn: *Add your link here*  
+- Portfolio/Website: *Add if available*  
+
+✨ Always building. Always improving. Always shipping.
